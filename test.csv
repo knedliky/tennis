@@ -1,0 +1,88 @@
+player_id,player_first_name,player_last_name,country_code,country,dob,plays,weight,height,prize_current_euros,prize_total_euros,logo
+25,Casper,Ruud,NOR,Norway,1998-12-22,Right-Handed,77,1.83,1858827,1858827,https://tipsscore.com/resb/team/ruud-c.png
+26,Juan Ignacio,Londero,ARG,Argentina,1993-08-15,Right-Handed,70,1.8,253285,253285,https://tipsscore.com/resb/team/londero-j.png
+27,Diego,Schwartzman,ARG,Argentina,1992-08-16,Right-Handed,64,1.7,1432007,1432007,https://tipsscore.com/resb/team/schwartzman-d.png
+28,Pedro,Sousa,PRT,Portugal,1988-05-27,Right-Handed,70,1.8,170520,170520,https://tipsscore.com/resb/team/sousa-p.png
+29,Marin,Čilić,HRV,Croatia,1988-09-28,Right-Handed,89,1.98,751508,751508,https://tipsscore.com/resb/team/cilic-m.png
+30,Filip,Krajinović,SRB,Serbia,1992-02-27,Right-Handed,75,1.85,701869,701869,https://tipsscore.com/resb/team/krajinovic-f.png
+31,Miomir,Kecmanović,SRB,Serbia,1999-08-31,Right-Handed,75,1.83,564788,564788,https://tipsscore.com/resb/team/kecmanovic-m.png
+32,Kyle,Edmund,GBR,United Kingdom,1995-01-08,Right-Handed,83,1.88,0,0,https://tipsscore.com/resb/team/edmund-k.png
+33,Andreas,Seppi,ITA,Italy,1984-02-21,Right-Handed,78,1.91,484938,484938,https://tipsscore.com/resb/team/seppi-a.png
+34,Jason,Jung,TWN,Chinese Taipei,1989-06-15,Right-Handed,69,1.8,115606,115606,https://tipsscore.com/resb/team/jung-j.png
+35,Pablo,Carreño Busta,ESP,Spain,1991-07-12,Right-Handed,78,1.88,1070218,1070218,https://tipsscore.com/resb/team/carreno-busta-p.png
+36,Felix,Auger-Aliassime,CAN,Canada,2000-08-08,Right-Handed,87,1.93,1713165,1713165,https://tipsscore.com/resb/team/auger-aliassime-f.png
+37,Gaël,Monfils,FRA,France,1986-09-01,Right-Handed,85,1.93,844598,844598,https://tipsscore.com/resb/team/monfils-g.png
+38,Amanda,Anisimova,USA,USA,2001-08-31,Right-Handed,,1.8,379315,379315,https://tipsscore.com/resb/team/anisimova-a.png
+39,Barbora,Strýcová,CZE,Czech Republic,1986-03-28,Right-Handed,60,1.64,75108,75108,https://tipsscore.com/resb/team/strycova-b.png
+40,Kim,Clijsters,BEL,Belgium,1983-06-08,Right-Handed,,1.74,18749,18749,https://tipsscore.com/resb/team/clijsters-k.png
+41,Kiki,Bertens,NLD,Netherlands,1991-12-10,Right-Handed,74,1.82,190048,190048,https://tipsscore.com/resb/team/bertens-k.png
+151,Ryan,Harrison,USA,USA,1992-05-07,Right-Handed,84,1.85,11682,11682,https://tipsscore.com/resb/team/harrison-r.png
+152,Damir,Džumhur,BIH,Bosnia & Herzegovina,1992-05-20,Right-Handed,68,1.75,186198,186198,https://tipsscore.com/resb/team/dzumhur-d.png
+153,Mackenzie,McDonald,USA,USA,1995-04-16,Right-Handed,73,1.78,774453,774453,https://tipsscore.com/resb/team/mcdonald-m.png
+154,Yasutaka,Uchiyama,JPN,Japan,1992-08-05,Right-Handed,78,1.83,247764,247764,https://tipsscore.com/resb/team/uchiyama-y.png
+155,Jiří,Veselý,CZE,Czech Republic,1993-07-10,Left-Handed,94,1.98,412323,412323,https://tipsscore.com/resb/team/vesely-j.png
+156,Brandon,Nakashima,USA,USA,2001-08-03,Right-Handed,77,1.85,483246,483246,https://tipsscore.com/resb/team/nakashima-b.png
+157,Adrian,Mannarino,FRA,France,1988-06-29,Left-Handed,79,1.8,640739,640739,https://tipsscore.com/resb/team/mannarino-a.png
+158,Soonwoo,Kwon,KOR,South Korea,1997-12-02,Right-Handed,72,1.8,486442,486442,https://tipsscore.com/resb/team/kwon-s.png
+159,Yoshihito,Nishioka,JPN,Japan,1995-09-27,Left-Handed,64,1.7,498163,498163,https://tipsscore.com/resb/team/nishioka-y.png
+160,John,Millman,AUS,Australia,1989-06-14,Right-Handed,79,1.83,583627,583627,https://tipsscore.com/resb/team/millman-j.png
+161,Emilio,Gomez,ECU,Ecuador,1991-11-28,Right-Handed,81,1.85,141839,141839,https://tipsscore.com/resb/team/gomez-e.png
+162,Francis,Tiafoe,USA,USA,1998-01-20,Right-Handed,86,1.88,1017518,1017518,https://tipsscore.com/resb/team/tiafoe-f.png
+163,Mikael,Ymer,SWE,Sweden,1998-09-09,Right-Handed,75,1.83,558000,558000,https://tipsscore.com/resb/team/ymer-m.png
+164,Richard,Gasquet,FRA,France,1986-06-18,Right-Handed,79,1.83,432934,432934,https://tipsscore.com/resb/team/gasquet-r.png
+165,Benoît,Paire,FRA,France,1989-05-08,Right-Handed,80,1.96,687453,687453,https://tipsscore.com/resb/team/paire-b.png
+166,Gregoire,Barrere,FRA,France,1994-02-16,Right-Handed,83,1.83,197615,197615,https://tipsscore.com/resb/team/barrere-g.png
+167,Márton,Fucsovics,HUN,Hungary,1992-02-08,Right-Handed,82,1.88,968933,968933,https://tipsscore.com/resb/team/fucsovics-m.png
+168,Alexander,Bublik,KAZ,Kazakhstan,1997-06-17,Right-Handed,76,1.96,859708,859708,https://tipsscore.com/resb/team/bublik-a.png
+169,Aljaž,Bedene,SVN,Slovenia,1989-07-18,Right-Handed,73,1.83,406070,406070,https://tipsscore.com/resb/team/bedene-a.png
+170,Karen,Khachanov,RUS,Russia,1996-05-21,Right-Handed,87,1.98,1049183,1049183,https://tipsscore.com/resb/team/khachanov-k.png
+11522,Maria,Sakkari,GRC,Greece,1995-07-25,Right-Handed,62,1.72,1691658,1691658,https://tipsscore.com/resb/team/sakkari-m.png
+11523,Isabella,Shinikova,BGR,Bulgaria,1991-10-25,Right-Handed,,,92434,92434,https://tipsscore.com/resb/team/shinikova-i.png
+11524,Valentini,Grammatikopoulou,GRC,Greece,1997-02-09,Right-Handed,,1.64,125780,125780,https://tipsscore.com/resb/team/grammatikopoulou-v.png
+11525,Ekaterine,Gorgodze,GEO,Georgia,1991-12-03,Left-Handed,,,177568,177568,https://tipsscore.com/resb/team/gorgodze-e.png
+11526,Julia,Görges,DEU,Germany,1988-11-02,Right-Handed,70,1.8,232705,232705,https://tipsscore.com/resb/team/gorges-j.png
+11527,Anastasia,Pavlyuchenkova,RUS,Russia,1991-07-03,Right-Handed,72,1.76,1441979,1441979,https://tipsscore.com/resb/team/pavlyuchenkova-a.png
+11528,Anastasija,Sevastova,LVA,Latvia,1990-04-13,Right-Handed,65,1.69,511256,511256,https://tipsscore.com/resb/team/sevastova-a.png
+11529,Sabina,Sharipova,UZB,Uzbekistan,1994-09-04,Right-Handed,64,1.74,6603,6603,https://tipsscore.com/resb/team/sharipova-s.png
+11530,Angelique,Kerber,DEU,Germany,1988-01-18,Left-Handed,68,1.73,1228288,1228288,https://tipsscore.com/resb/team/kerber-a.png
+11531,Simona,Halep,ROU,Romania,1991-09-27,Right-Handed,60,1.68,753608,753608,https://tipsscore.com/resb/team/halep-s.png
+11532,Patty,Schnyder,CHE,Switzerland,1978-12-14,Left-Handed,,1.68,,,https://tipsscore.com/resb/team/schnyder-p.png
+11533,Olga,Danilović,SRB,Serbia,2001-01-23,Left-Handed,,1.82,235851,235851,https://tipsscore.com/resb/team/danilovic-o.png
+11534,Lamis,Alhussein Abdel Aziz,EGY,Egypt,1998-04-24,,,,3766,3766,https://tipsscore.com/resb/team/alhussein-abdel-aziz-l.png
+11535,Carla,Suárez Navarro,ESP,Spain,1988-09-03,Right-Handed,62,1.62,9933430,9933430,https://tipsscore.com/resb/team/suarez-navarro-c.png
+11536,Verónica,Cepede Royg,PRY,Paraguay,1992-01-21,Right-Handed,62,1.63,78518,78518,https://tipsscore.com/resb/team/cepede-royg-v.png
+11537,Sofia,Shapatava,GEO,Georgia,1989-01-12,,,,13392,13392,https://tipsscore.com/resb/team/shapatava-s.png
+11538,Sandra,Samir,EGY,Egypt,1997-11-04,,,,8463,8463,https://tipsscore.com/resb/team/samir-s.png
+11539,Kurumi,Nara,JPN,Japan,1991-12-30,Right-Handed,53,1.55,105810,105810,https://tipsscore.com/resb/team/nara-k.png
+11540,Heather,Watson,GBR,United Kingdom,1992-05-19,Right-Handed,63,1.7,401911,401911,https://tipsscore.com/resb/team/watson-h.png
+11541,Petia,Arshinkova,BGR,Bulgaria,1998-04-26,,,,2085,2085,https://tipsscore.com/resb/team/arshinkova-p.png
+11542,Dejana,Radanović,SRB,Serbia,1996-05-14,,,,2618,2618,https://tipsscore.com/resb/team/radanovic-d.png
+11543,Stephanie Mariel,Petit,ARG,Argentina,1996-08-25,,,,933,933,https://tipsscore.com/resb/team/petit-s.png
+11544,Iga,Świątek,POL,Poland,2001-05-31,Right-Handed,,1.76,1602626,1602626,https://tipsscore.com/resb/team/swiatek-i.png
+11545,Belinda,Bencic,CHE,Switzerland,1997-03-10,Right-Handed,63,1.75,943528,943528,https://tipsscore.com/resb/team/bencic-b.png
+11546,Petra,Kvitová,CZE,Czech Republic,1990-03-08,Left-Handed,70,1.82,706657,706657,https://tipsscore.com/resb/team/kvitova-p.png
+11547,Antonia,Lottner,DEU,Germany,1996-08-13,Right-Handed,70,1.85,38330,38330,https://tipsscore.com/resb/team/lottner-a.png
+11548,Aliaksandra,Sasnovich,BLR,Belarus,1994-03-22,Right-Handed,60,1.74,537978,537978,https://tipsscore.com/resb/team/sasnovich-a.png
+11549,Jana,Čepelová,SVK,Slovakia,1993-05-29,Right-Handed,60,1.68,0,0,https://tipsscore.com/resb/team/cepelova-j.png
+11550,Lesley,Pattinama Kerkhove,NLD,Netherlands,1991-11-04,Right-Handed,,1.72,217814,217814,https://tipsscore.com/resb/team/pattinama-kerkhove-l.png
+11551,Samantha,Stosur,AUS,Australia,1984-03-30,Right-Handed,68,1.75,616235,616235,https://tipsscore.com/resb/team/stosur-s.png
+11552,Karolína,Plíšková,CZE,Czech Republic,1992-03-21,Right-Handed,72,1.86,2390721,2390721,https://tipsscore.com/resb/team/pliskova-ka.png
+11553,Sara,Errani,ITA,Italy,1987-04-29,Right-Handed,60,1.64,275998,275998,https://tipsscore.com/resb/team/errani-s.png
+11554,Barbara,Haas,AUT,Austria,1996-03-19,Right-Handed,56,1.65,79893,79893,https://tipsscore.com/resb/team/haas-b.png
+11555,Magdalena,Fręch,POL,Poland,1997-12-15,Right-Handed,,,148490,148490,https://tipsscore.com/resb/team/frech-m.png
+11556,Nefisa,Berberović,BIH,Bosnia & Herzegovina,1999-07-03,,,,6534,6534,https://tipsscore.com/resb/team/berberovic-n.png
+11557,Eleonora,Molinaro,LUX,Luxembourg,2000-09-04,,,,978,978,https://tipsscore.com/resb/team/molinaro-e.png
+11558,Dea,Herdzelas,BIH,Bosnia & Herzegovina,1996-11-07,,,,13214,13214,https://tipsscore.com/resb/team/herdzelas-d.png
+11559,Julia,Grabher,AUT,Austria,1996-07-02,Right-Handed,60,1.7,112039,112039,https://tipsscore.com/resb/team/grabher-j.png
+11560,Laura Lissette,Quezada Martinez,DOM,Dominican Republic,,,,,,,https://tipsscore.com/resb/team/quezada-martinez-l.png
+11561,Ekaterina,Makarova,RUS,Russia,1988-06-07,Left-Handed,65,1.8,120900,120900,https://tipsscore.com/resb/team/makarova-e.png
+11562,Jelena,Ostapenko,LVA,Latvia,1997-06-08,Right-Handed,68,1.77,909337,909337,https://tipsscore.com/resb/team/ostapenko-j.png
+11563,Maria Paulina,Perez Garcia,COL,Colombia,1996-01-10,,,,3403,3403,https://tipsscore.com/resb/team/perez-garcia-m.png
+11564,Gabriela,Dabrowski,CAN,Canada,1992-04-01,,,1.78,260901,260901,https://tipsscore.com/resb/team/dabrowski-g.png
+11565,Kateryna,Bondarenko,UKR,Ukraine,1986-08-08,Right-Handed,60,1.75,72493,72493,https://tipsscore.com/resb/team/bondarenko-k.png
+11566,Garbiñe,Muguruza,ESP,Spain,1993-10-08,Right-Handed,73,1.82,2372393,2372393,https://tipsscore.com/resb/team/muguruza-g.png
+11567,Daria,Saville,AUS,Australia,1994-03-05,Right-Handed,61,1.66,99597,99597,https://tipsscore.com/resb/team/gavrilova-d.png
+11568,Marta,Kostyuk,UKR,Ukraine,2002-06-28,Right-Handed,,,536554,536554,https://tipsscore.com/resb/team/kostyuk-m.png
+11569,Mandy,Minella,LUX,Luxembourg,1985-11-22,Right-Handed,65,1.8,83160,83160,https://tipsscore.com/resb/team/minella-m.png
+11570,Ashleigh,Barty,AUS,Australia,1996-04-24,Right-Handed,62,1.66,3287652,3287652,https://tipsscore.com/resb/team/barty-a.png
+11571,Quirine,Lemoine,NLD,Netherlands,1991-12-25,Left-Handed,,,16903,16903,https://tipsscore.com/resb/team/lemoine-q.png
